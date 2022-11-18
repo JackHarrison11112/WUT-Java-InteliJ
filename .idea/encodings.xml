@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/qst/dms/db/DBUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/qst/dms/dos/DBDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/qst/dms/dos/EntityDataDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/qst/dms/dos/FileDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/qst/dms/dos/LogRecDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/qst/dms/dos/MenuDriver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/qst/dms/dos/TransportDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/qst/dms/entity/AppendObjectOutputStream.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/qst/dms/entity/DataBase.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/qst/dms/entity/LogRec.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/qst/dms/entity/MatchedLogRec.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/qst/dms/entity/MatchedTransport.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/qst/dms/entity/Transport.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/qst/dms/gather/DataFilter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/qst/dms/gather/IDataAnalyse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/qst/dms/gather/LogRecAnalyse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/qst/dms/gather/TransportAnalyse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/qst/dms/service/LogRecService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/qst/dms/service/TransportService.java" charset="GBK" />
+  </component>
+</project>
